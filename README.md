@@ -70,7 +70,7 @@ Write a brief report in `writing/report.md` describing your design approach.
 
 ## Submission
 
-Commit your updated files (including the starter HTML/CSS) to the repository with meaningful commit messages.
+Commit your updated files (including both HTML files, CSS and the report) to the repository with meaningful commit messages.
 
 ## Evaluation
 
